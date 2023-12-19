@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://sravan.blog/"
 title: Sravan Sarraju
 paginate: 5
 theme: PaperMod
@@ -79,8 +79,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/ssarraju"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/sksarraju"
     - name: github
       url: "https://github.com/"
 
