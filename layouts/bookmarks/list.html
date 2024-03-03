@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>What I read recently</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href={{ .Params.link }}>{{ .Title }}</a> - {{ .Summary }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
