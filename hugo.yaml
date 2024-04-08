@@ -127,7 +127,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: bookmarks
-      name: What I read recently
+      name: Bookshelf
       url: /bookmarks
       weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
